@@ -1,0 +1,16 @@
+{
+  "name": "binar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binar.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "jest-cli": "^29.6.1"
+  }
+}
